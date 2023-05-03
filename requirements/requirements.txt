@@ -1,0 +1,84 @@
+NITDA Attendance System
+
+Admin have general control of everything
+
+Signup/Login
+
+For Nysc
+
+FirstN.
+LastN.
+Email.
+Phone.
+Major
+I/D Number
+DateofBirth
+Password
+
+For Intern
+
+FirstN.
+LastN.
+Email.
+Phone.
+Course of Study
+School ID No.
+Department
+DateofBirth
+Password
+
+For Supervisor
+
+FirstN.
+LastN.
+Email.
+I/D No.
+Phone.
+Department
+DateofBirth
+Password
+
+Signup/Login
+
+Email
+Password
+
+Forgot Password
+
+
+
+
+
+User Dashboard
+
+Supervisor can upload weekly rotation everbody can see
+
+Nysc/Interns can download weekly rotation
+
+Report Daily or weekly
+
+Supervisor can download document for Nysc/Interns 
+
+
+
+
+Attendance 
+
+Supervisors can search for Nysc/Interns
+
+Do Nysc/Interns need to pick attendance physical or Online ?
+
+But what if its both for the supervisor to verify
+
+
+
+Profile
+
+Supervisor, Nysc/Interns have the power to edit their profile but can't change their email 
+
+Should they have the power to reset their password 
+
+
+
+
+
